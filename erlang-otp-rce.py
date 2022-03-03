@@ -1,7 +1,7 @@
 # Exploit Title: Remote Command Execution via Erlang Distribution Protocol 
 # Date: 2022-01-21
 # Exploit Author: Konstantin Burov, @_sadshade
-# Software Link: https://couchdb.apache.org/
+# Software Link: https://www.erlang.org/doc/apps/erts/erl_dist_protocol.html
 # Version: N/A
 # Tested on: Kali 2021.2
 # Based on 1F98D's Erlang Cookie - Remote Code Execution
