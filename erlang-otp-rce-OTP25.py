@@ -25,7 +25,7 @@ import time
 
 TARGET = ""
 EPMD_PORT = 4369  # Default Erlang distributed port
-COOKIE = "lrx8Qls22RZamFjvaJb+y2i1mXKuHxOGQ8teA"  # Default Erlang cookie for CouchDB 
+COOKIE = "monster"  # Default Erlang cookie for CouchDB 
 ERLNAG_PORT = 23705
 EPM_NAME_CMD = b"\x00\x01\x6e"  # Request for nodes list
 
